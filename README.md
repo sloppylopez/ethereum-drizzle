@@ -44,6 +44,7 @@ This box comes with everything you need to start using smart contracts from a re
     ```javascript
     npm run build
     ```
+7. Remember to connect Metamask to one of your local Ganache Ethereum accounts!
 
 ## FAQ
 
